@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "AZDC6")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/AZDC6.pretty")(options "")(descr ""))
+)
