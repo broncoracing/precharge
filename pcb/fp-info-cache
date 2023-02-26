@@ -1,4 +1,11 @@
-20517096323976984
+20522128174197824
+AZDC6
+AZDC6
+
+
+0
+6
+6
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85511,6 +85518,20 @@ igbt diode module
 0
 25
 25
+VRB1205YMD-6WR3
+VRB1205YMD-6WR3
+
+
+0
+4
+4
+VRB1205YMD-6WR3
+VRB1205YMD-15WR3
+
+
+0
+6
+6
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins

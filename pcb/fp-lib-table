@@ -1,3 +1,6 @@
 (fp_lib_table
   (lib (name "AZDC6")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/AZDC6.pretty")(options "")(descr ""))
+  (lib (name "VRB1205YMD-6WR3")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/VRB1205YMD-6WR3.pretty")(options "")(descr ""))
+  (lib (name "kicad-libraries")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries.pretty")(options "")(descr ""))
+  (lib (name "hsa255k6j")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/hsa255k6j.pretty")(options "")(descr ""))
 )
