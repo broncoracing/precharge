@@ -3,4 +3,5 @@
   (lib (name "VRB1205YMD-6WR3")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/VRB1205YMD-6WR3.kicad_sym")(options "")(descr ""))
   (lib (name "DBT71205U")(type "Legacy")(uri "${KIPRJMOD}/kicad-libraries/dbt71205u/DBT71205U.lib")(options "")(descr ""))
   (lib (name "AZDC6")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/AZDC6.kicad_sym")(options "")(descr ""))
+  (lib (name "dbt71205u2")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries/dbt71205u2.kicad_sym")(options "")(descr ""))
 )
