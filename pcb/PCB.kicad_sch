@@ -1514,6 +1514,11 @@
     (uuid 76935fce-ad1f-47da-9252-22d6ee36cef4)
   )
 
+  (label "AIR" (at 205.74 72.39 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b9058900-435a-4ff1-8b85-e979337c7fe1)
+  )
+
   (global_label "TS+" (shape input) (at 46.99 144.78 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 187c919d-2fea-4543-a7e2-1adff63de751)
